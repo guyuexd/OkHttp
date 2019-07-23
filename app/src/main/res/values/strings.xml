@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OkHttpTest</string>
+    <string name="user_name">"用户名"</string>
+    <string name="password">"密码"</string>
+    <string name="sync_get">"同步GET请求"</string>
+    <string name="async_get">"异步GET请求"</string>
+    <string name="sync_post">"同步POST请求"</string>
+    <string name="async_post">"异步POST请求"</string>
+    <string name="post_submit_string">"POST提交字符串"</string>
+    <string name="post_submit_json">"POST提交实体/JSON"</string>
+    <string name="post_submit_common_form">"POST提交普通Form表单"</string>
+    <string name="post_submit_mix_form">"POST提交混合Form表单"</string>
+</resources>
